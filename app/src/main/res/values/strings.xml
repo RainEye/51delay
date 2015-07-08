@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">51延时计算</string>
+
+    <string name="firstLoop">第一层循环</string>
+    <string name="secondLoop">第二层循环</string>
+    <string name="thirdLoop">第三层循环</string>
+    <string name="calc">计算</string>
+    <string name="exit">退出应用</string>
+</resources>
